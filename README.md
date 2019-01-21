@@ -14,7 +14,7 @@ Before Part I: Probability, I will perform data cleaning such as checking missin
 This project is using Python3. The packages are used in this project including Numpy, Panda, random, matplotlib.pyplot, scipy.stats, and  statsmodels.api.
 
 ### Metadata of datasets
-1. ab_data.csv  
+1. [ab_data.csv](https://github.com/jemc36/Udacity-DAND-AB-test-ecommerce/blob/master/ab_data.csv)  
 
 | Variable Name | Metadata                   |
 |---------------|----------------------------|
@@ -24,7 +24,7 @@ This project is using Python3. The packages are used in this project including N
 | landing_page  | string: old_page, new_page |
 | converted     | numeric: 0:No, 1:Yes       |
 
-2. countries.csv  
+2. [countries.csv](https://github.com/jemc36/Udacity-DAND-AB-test-ecommerce/blob/master/countries.csv)  
 
 | Variable Name | Metadata           |
 |---------------|--------------------|
@@ -34,6 +34,6 @@ This project is using Python3. The packages are used in this project including N
 
 ### Report
 The reports are generated to three formats, .ipynb, .pdf and .html:
-* Analyze_ab_test_results_notebook_jc.ipynb
-* Analyze_ab_test_results_notebook_jc.pdf
-* Analyze_ab_test_results_notebook_jc.html
+* [Analyze_ab_test_results_notebook_jc.ipynb](https://github.com/jemc36/Udacity-DAND-AB-test-ecommerce/blob/master/Analyze_ab_test_results_notebook_jc.ipynb)
+* [Analyze_ab_test_results_notebook_jc.pdf](https://github.com/jemc36/Udacity-DAND-AB-test-ecommerce/blob/master/Analyze_ab_test_results_notebook_jc.pdf)
+* [Analyze_ab_test_results_notebook_jc.html](https://github.com/jemc36/Udacity-DAND-AB-test-ecommerce/blob/master/Analyze_ab_test_results_notebook_jc.html)
