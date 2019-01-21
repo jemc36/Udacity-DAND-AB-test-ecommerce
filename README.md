@@ -33,6 +33,7 @@ This project is using Python3. The packages are used in this project including N
 
 
 ### Report
-The reports are generated to two formats, .ipynb and .html:
+The reports are generated to three formats, .ipynb, .pdf and .html:
 * Analyze_ab_test_results_notebook_jc.ipynb
+* Analyze_ab_test_results_notebook_jc.pdf
 * Analyze_ab_test_results_notebook_jc.html
