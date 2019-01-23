@@ -43,4 +43,4 @@ The reports are generated to three formats, .ipynb, .pdf and .html:
 * [Analyze_ab_test_results_notebook_jc.html](https://github.com/jemc36/Udacity-DAND-AB-test-ecommerce/blob/master/Analyze_ab_test_results_notebook_jc.html)
 
 ### Feedback from the reviewer
-* [Udacity Reviews]()
+* [Udacity Reviews](https://github.com/jemc36/Udacity-DAND-AB-test-ecommerce/blob/master/Udacity%20Reviews.pdf)
